@@ -1,0 +1,15 @@
+{
+  "name": "nihongo-flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "unofficial-jisho-api": "^2.2.0"
+  }
+}
